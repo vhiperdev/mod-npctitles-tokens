@@ -26,4 +26,6 @@ You can download the module, unzip a folder and update it in the azerothcore / m
 
 ### 3) Rerun the game and launch a clean build of AzerothCore
 
+### 4) Finally enter the game and add the title npc .npc add 200012
+
 
