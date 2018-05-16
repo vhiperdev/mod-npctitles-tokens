@@ -22,9 +22,8 @@ git clone https://github.com/vhipercode/mod-npctitles-tokens.git
 
 You can download the module, unzip a folder and update it in the azerothcore / modules directory.
 
-### 2) Rerun the game and launch a clean build of AzerothCore
+### 2) sql - Npc title (token).sql -> DB world
+
+### 3) Rerun the game and launch a clean build of AzerothCore
 
 
-
-License
-This module is released under a GNU AGPL license.
